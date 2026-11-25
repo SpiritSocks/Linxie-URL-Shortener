@@ -115,6 +115,5 @@ php artisan serve
 
 ## 🔗 Контакты
 
-- Вебсайт: [https://linxie.ru](https://linxie.ru)
 - Telegram: [@SpiritSocks](https://t.me/SpiritSocks)
 - GitHub: [https://github.com/SpiritSocks/Linxie-URL-Shortener](https://github.com/SpiritSocks/Linxie-URL-Shortener)
